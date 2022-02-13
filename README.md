@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Who am I?
-<p> I'm a self-taught programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say hello! </p> <hr>
-## What am I learning right now?
-<p> 
+ I'm a self-taught programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say hello! <hr>
+ 
+## What am I learning right now? 
 <ul> 
   <li> 
     Working through The Odin Project
@@ -30,20 +31,24 @@ Here are some ideas to get you started:
   <li>
     Javascript - YDKJS
   </li>
-</ul>
-</p> <hr>
+</ul> <hr>
 
-## What am I currently working on? 
-  <p> 
+## What am I currently working on?  
     The Odin Project (TOP) Currriculum on the path to Fullstack Development
-  </p> <hr>
-#### I’m looking to collaborate on Web Development projects <hr>
+    
+#### I’m looking to collaborate on Web Development projects 
+
 #### I’m looking for help with growth as a programmer, coder. And growth in general.
-#### Pronouns: He/Him/His/Majesty/Honourable :) <hr>
+
+#### Pronouns: He/Him/His/Majesty/Honourable :)
+
+#### When I'm not programming?
+   I'm mostly reading books and sometimes playing chess.
+
 ## How to reach me?
-  <p> Twitter - @itunuayo_john </br>
+  Twitter - @itunuayo_john </br>
   LinkedIn - https://www.linkedin.com/in/adebiyi-itunuayo-397bab151 </br>
   E-mail - itunuayoadebiyi@gmail.com </br>
-  Contact - +2347039910992
-  </p> <hr>
+  Contact - +2347039910992 <hr>
+  
 ### Funfact - Stack-Overflow and Google :)))
