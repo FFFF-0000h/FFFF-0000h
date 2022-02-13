@@ -26,17 +26,18 @@ Here are some ideas to get you started:
   - *YDKJS* - Kyle Simpson <hr>
 
 ## What am I currently working on?  
-    The Odin Project (TOP) Currriculum on the path to Fullstack Development
+   [The Odin Project (TOP) Currriculum on the path to Fullstack Development](https://www.theodinproject.com/) <hr>
     
 #### I’m looking to collaborate on Web Development projects 
 
 #### I’m looking for help with growth as a programmer, coder. And growth in general.
 
-#### Pronouns: He/Him/His/Majesty/Honourable :)
+#### Pronouns: He/Him/His/Majesty/Honourable :) <hr>
 
-#### When I'm not programming?
-   I'm mostly reading books and sometimes playing chess.
+### When I'm not programming?
 
+   I'm mostly reading books and sometimes playing chess. <hr>
+   
 ## How to reach me?
   Twitter - [itunuayo_john](https://twitter.com/itunuayo_john) </br>
   LinkedIn - [Adebiyi Itunuayo](https://www.linkedin.com/in/adebiyi-itunuayo-397bab151) </br>
