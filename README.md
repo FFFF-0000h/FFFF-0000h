@@ -38,8 +38,8 @@ Here are some ideas to get you started:
    I'm mostly reading books and sometimes playing chess.
 
 ## How to reach me?
-  Twitter - ![itunuayo_john](https://twitter.com/itunuayo_john) </br>
-  LinkedIn - ![Adebiyi Itunuayo](https://www.linkedin.com/in/adebiyi-itunuayo-397bab151) </br>
+  Twitter - [itunuayo_john](https://twitter.com/itunuayo_john) </br>
+  LinkedIn - [Adebiyi Itunuayo](https://www.linkedin.com/in/adebiyi-itunuayo-397bab151) </br>
   E-mail - itunuayoadebiyi@gmail.com </br>
   Contact - +2347039910992 <hr>
   
