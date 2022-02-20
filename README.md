@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### When I'm not programming?
 
-   I'm mostly reading books and sometimes playing chess. <hr>
+   I'm mostly reading books, learning French and sometimes playing chess<hr>
    
 ## How to reach me?
   Twitter - [itunuayo_john](https://twitter.com/itunuayo_john) </br>
