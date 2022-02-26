@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## What am I learning right now? 
   - Working through The Odin Project
   - Computer Science - Grace Polytechnic, Lagos, NG.
-  - *YDKJS* - Kyle Simpson <hr>
+  - *YDKJS* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - Kyle Simpson <hr>
 
 ## What am I currently working on?  
    [The Odin Project (TOP) Currriculum on the path to Fullstack Development](https://www.theodinproject.com/) <hr>
