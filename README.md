@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## WhoamI?
  I'm a self-taught programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say *hello*! <hr>
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artymanprince)](https://github.com/Artymanprince/github-readme-stats) <hr>
 ## What am I learning right now? 
   - Working through The Odin Project
   - Computer Science - Grace Polytechnic, Lagos, NG.
