@@ -16,7 +16,8 @@
 ## What am I learning right now? 
   - Working through The Odin Project
   - Computer Science - Grace Polytechnic, Lagos, NG.
-  - *YDKJS* - Kyle Simpson 
+  - *YDKJS* - Kyle Simpson <hr>
+ 
 ## What am I currently working on?  
    [The Odin Project (TOP) Currriculum on the path to Fullstack Development](https://www.theodinproject.com/) <hr>
 
