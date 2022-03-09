@@ -3,8 +3,10 @@
 <p align = "center"><img src="https://user-images.githubusercontent.com/44436048/157494130-c3577c64-e9f4-4773-90a2-e211dd18a099.gif"
 ><i>TechScrolls</i></img></p>
 
-
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Artymanprince" alt="profile badge"/>
+ <img src="https://img.shields.io/github/commit-activity/m/Artymanprince/Artymanprince?color=green" alt="commit activity">
+ <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Artymanprince/Artymanprince/main?color=orange">
+ 
 <h2>WhoamI</h2>
  I'm a self-taught programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say <i>hello</i>! <hr>
 
