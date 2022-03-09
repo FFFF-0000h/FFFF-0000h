@@ -1,6 +1,7 @@
 # Hello friend... <hr>
 
-<p align = "center"><img src= "https://user-images.githubusercontent.com/44436048/155865918-0513c726-3553-49b0-a62c-e6b4307cd397.gif"><i>TechScrolls</i></img></p>
+<p align = "center"><img src="https://user-images.githubusercontent.com/44436048/157494130-c3577c64-e9f4-4773-90a2-e211dd18a099.gif"
+><i>TechScrolls</i></img></p>
 
 
 
