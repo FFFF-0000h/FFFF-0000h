@@ -5,7 +5,6 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Artymanprince" alt="profile badge"/>
  <img src="https://img.shields.io/github/commit-activity/m/Artymanprince/Artymanprince?color=green" alt="commit activity">
- <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Artymanprince/Artymanprince/main?color=orange">
  
 <h2>WhoamI</h2>
  I'm a self-taught programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say <i>hello</i>! <hr>
