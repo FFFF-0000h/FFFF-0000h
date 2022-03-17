@@ -23,7 +23,10 @@ _Note_: Top language is not a representation of current skillset or experience b
   - *YDKJS* - Kyle Simpson <hr>
  
 ## What am I currently working on?  
-   [The Odin Project (TOP) Currriculum on the path to Fullstack Development](https://www.theodinproject.com/) <hr>
+
+-   My project [Tech-Scrolls](https://github.com/Artymanprince/Tech-Scrolls) 
+
+-   [The Odin Project (TOP) Currriculum on the path to Fullstack Development](https://www.theodinproject.com/) <hr>
 
 #### I’m looking for help with growth as a programmer, coder. And growth in general.
 
