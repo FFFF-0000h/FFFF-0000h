@@ -7,7 +7,7 @@
 
  
 <h2>WhoamI</h2>
- I'm a programmer learning new things and solving problems, I'm proficient in modular/functional programming and good in object-oriented programming. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say <i>hello</i>! <hr>
+ I'm a programmer learning new things and solving problems, I'm proficient in modular/functional programming and good in object-oriented programming. I have the hope of one day working in a team of like minds, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say <i>hello</i>! <hr>
 
 <h2 align = "center" > My Tech Stack </h2>
 
