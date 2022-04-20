@@ -2,9 +2,7 @@
 
 <p align = "center"><img src="https://user-images.githubusercontent.com/44436048/157494130-c3577c64-e9f4-4773-90a2-e211dd18a099.gif"
 ><i>TechScrolls</i></img></p>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Artymanprince" alt="profile badge"/>
-
+	
  
 <h2>WhoamI</h2>
  I'm a programmer learning new things and solving problems, I'm proficient in modular/functional programming and good in object-oriented programming. I have the hope of one day working in a team of like minds, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say <i>hello</i>! <hr>
