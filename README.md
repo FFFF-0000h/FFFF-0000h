@@ -13,7 +13,7 @@
 
 _Note_: Top language is not a representation of current skillset or experience but based on the code used in the repositories found on my github. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFFF-0000h)](https://github.com/FFFF-0000h/github-readme-stats) <hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFFF-0000h&hide=html,css)](https://github.com/FFFF-0000h/github-readme-stats) <hr>
 
 ## What am I learning right now? 
   - Working through The Odin Project
