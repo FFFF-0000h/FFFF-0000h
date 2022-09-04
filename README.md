@@ -5,7 +5,7 @@
 	
  
 <h2>WhoamI</h2>
- I'm a programmer learning new things and solving problems, I'm proficient in modular/functional programming and proficient in object-oriented programming. I have the hope of one day working in a team of like minds, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say <i>hello</i>! <hr>
+ I'm a programmer learning new things and solving problems, I'm proficient in modular/functional programming and proficient in object-oriented programming. I have the hope of one day working in a team of like minds in the cybersecurity field, and until then I'll keep working on learning and enjoying the process. Feel free to say <i>hello</i>! <hr>
 
 <h2 align = "center" > My Tech Stack </h2>
 
@@ -40,4 +40,4 @@ _Note_: Top language is not a representation of current skillset or experience b
   E-mail - itunuayoadebiyi@gmail.com </br>
   Contact - +2347039910992 <hr>
   
-### Funfact - Stack-Overflow and Google :)))
+### FunFact - Stack-Overflow and Google :)))
