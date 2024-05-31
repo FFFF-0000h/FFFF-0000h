@@ -16,14 +16,11 @@ _Note_: Top language is not a representation of current skillset or experience b
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFFF-0000h&hide=html,css)](https://github.com/FFFF-0000h/github-readme-stats) <hr>
 
 ## What am I learning right now? 
-  - Working through The Odin Project
   - *YDKJS* - Kyle Simpson <hr>
  
 ## What am I currently working on?  
 
 -   My project [Tech-Scrolls](https://github.com/Artymanprince/Tech-Scrolls) 
-
--   [The Odin Project (TOP) Currriculum on the path to Fullstack Development](https://www.theodinproject.com/) <hr>
 
 #### I’m looking for help with growth as a programmer, coder. And growth in general.
 
