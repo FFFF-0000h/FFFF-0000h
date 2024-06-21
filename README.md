@@ -42,6 +42,5 @@ _Note_: Top language is not a representation of current skillset or experience b
   Twitter - [itunuayo_john](https://twitter.com/itunuayo_john) </br>
   LinkedIn - [Adebiyi Itunuayo](https://www.linkedin.com/in/adebiyi-itunuayo-397bab151) </br>
   E-mail - itunuayoadebiyi@gmail.com </br>
-  Contact - +2347039910992 <hr>
   
 ### FunFact - Stack-Overflow and Google :)))
