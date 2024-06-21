@@ -43,4 +43,4 @@ _Note_: Top language is not a representation of current skillset or experience b
   LinkedIn - [Adebiyi Itunuayo](https://www.linkedin.com/in/adebiyi-itunuayo-397bab151) </br>
   E-mail - itunuayoadebiyi@gmail.com </br>
   
-### FunFact - Stack-Overflow and Google :)))
+### FunFact - Everything on the internet can be hacked, the question is not if you have the skill or know where to look, instead the question is about Morals. Think about it.
