@@ -24,6 +24,7 @@ _Note_: Top language is not a representation of current skillset or experience b
 - [Js&Logic](https://dev.to/adebiyiitunuayo/javascript-and-logic-442d)
 - [Large Language Models: The Brains Behind Modern AI](https://dev.to/adebiyiitunuayo/large-language-models-the-brains-behind-modern-ai-like-chatgptsirialexacortana-265c)
 - [API Testing: A Journey into Reconnaissance and Vulnerability Identification using BurpSuite](https://dev.to/adebiyiitunuayo/api-testing-a-journey-into-reconnaissance-and-vulnerability-identification-using-burpsuite-50o)
+- [Path Traversal: The Hidden Threat to Your Data](https://dev.to/adebiyiitunuayo/path-traversal-the-hidden-threat-to-your-data-2g3n)
  
 ## What am I currently working on?  
 
