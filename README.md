@@ -30,7 +30,7 @@ _Note_: Top language is not a representation of current skillset or experience b
 
 -   My project [Tech-Scrolls](https://github.com/Artymanprince/Tech-Scrolls) 
 
-#### I’m looking for help with growth as a programmer, coder. And growth in general.
+#### I’m open to collabs as a programmer, pentester. And growth in general.
 
 ### When I'm not programming?
 
