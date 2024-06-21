@@ -18,7 +18,7 @@ _Note_: Top language is not a representation of current skillset or experience b
 ## What am I learning right now? 
   - *YDKJS* - Kyle Simpson <hr>
   
-## Articles written on Back-End Development/Logic/Js
+## Articles written on Back-End Development/Cybersecurity/Logic/Js
 - [Nodejs:cd-myjourney](https://dev.to/adebiyiitunuayo/nodejs-cd-my-journey00-3d91)
 - [Js&Logic](https://dev.to/adebiyiitunuayo/javascript-and-logic-442d)
  
