@@ -21,6 +21,7 @@ _Note_: Top language is not a representation of current skillset or experience b
 ## Articles written on Back-End Development/Cybersecurity/Logic/Js
 - [Nodejs:cd-myjourney](https://dev.to/adebiyiitunuayo/nodejs-cd-my-journey00-3d91)
 - [Js&Logic](https://dev.to/adebiyiitunuayo/javascript-and-logic-442d)
+- [Large Language Models: The Brains Behind Modern AI](https://dev.to/adebiyiitunuayo/large-language-models-the-brains-behind-modern-ai-like-chatgptsirialexacortana-265c)
  
 ## What am I currently working on?  
 
