@@ -16,7 +16,8 @@ _Note_: Top language is not a representation of current skillset or experience b
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFFF-0000h&hide=html,css)](https://github.com/FFFF-0000h/github-readme-stats) <hr>
 
 ## What am I learning right now? 
-  - *YDKJS* - Kyle Simpson <hr>
+  - *YDKJS* - Kyle Simpson 
+  - Web Security <hr>
   
 ## Articles written on Back-End Development/Cybersecurity/Logic/Js
 - [Nodejs:cd-myjourney](https://dev.to/adebiyiitunuayo/nodejs-cd-my-journey00-3d91)
