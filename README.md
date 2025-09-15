@@ -34,7 +34,7 @@ _Note_: Top language is not a representation of current skillset or experience b
 
 ### When I'm not programming?
 
-   I'm mostly reading, sometimes I'm playing chess.<hr>
+   I'm mostly reading <hr>
    
 #### Pronouns: He/Him/His/Majesty/Honourable :) <hr>
    
