@@ -38,9 +38,7 @@ _Note_: Top language is not a representation of current skillset or experience b
    
 #### Pronouns: He/Him/His/Majesty/Honourable :) <hr>
    
-## How to reach me?
-  Twitter - [itunuayo_john](https://twitter.com/itunuayo_john) </br>
-  LinkedIn - [Adebiyi Itunuayo](https://www.linkedin.com/in/adebiyi-itunuayo-397bab151) </br>
+## Write me
   E-mail - itunuayoadebiyi@gmail.com </br>
   
 #### FunFact - Everything on the internet can be hacked.
