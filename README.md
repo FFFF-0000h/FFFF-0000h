@@ -27,18 +27,12 @@ _Note_: Top language is not a representation of current skillset or experience b
 - [Path Traversal: The Hidden Threat to Your Data](https://dev.to/adebiyiitunuayo/path-traversal-the-hidden-threat-to-your-data-2g3n)
  
 ## What am I currently working on?  
-
 -   My project [Tech-Scrolls](https://github.com/Artymanprince/Tech-Scrolls) 
 
-#### I’m open to collabs as a programmer, pentester. And growth in general.
-
-### When I'm not programming?
-
-   I'm mostly reading <hr>
-   
-#### Pronouns: He/Him/His/Majesty/Honourable :) <hr>
+## When I'm not programming?
+- I'm mostly reading <hr>
    
 ## Write me
-  E-mail - itunuayoadebiyi@gmail.com </br>
+- E-mail - itunuayoadebiyi@gmail.com </br>
   
 #### FunFact - Everything on the internet can be hacked.
