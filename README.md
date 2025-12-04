@@ -11,12 +11,7 @@
 
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <hr>
 
-_Note_: Top language is not a representation of current skillset or experience but based on the code used in the repositories found on my github. 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFFF-0000h&hide=html,css)](https://github.com/FFFF-0000h/github-readme-stats) <hr>
-
-## What am I learning right now? 
-  - *YDKJS* - Kyle Simpson 
+## What am I learning right now?  
   - Web Security <hr>
   
 ## Articles written on Back-End Development/Cybersecurity/Logic/Js
