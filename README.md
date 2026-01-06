@@ -5,7 +5,7 @@
 	
  
 <h2>WhoamI</h2>
- I'm a learner and problem solver doing what such a person ought to; learning new things and solving problems. I'm proficient in modular, functional and object-oriented programming paradigms. I have the hope of one day working in a team of like minds in the cybersecurity field, and until then I'll keep working on learning and enjoying the process. Feel free to say <i>hello</i>! <hr>
+ I know and apply the core software engineering principles, I'm largely interested in security. I use Arch btw. <hr>
 
 <h2 align = "center" > My Tech Stack </h2>
 
