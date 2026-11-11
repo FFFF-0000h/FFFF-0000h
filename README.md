@@ -54,7 +54,7 @@
 
  
 ## What am I currently working on?  
--   My project [Tech-Scrolls](https://github.com/Artymanprince/Tech-Scrolls)
+-   [Tech-Scrolls](https://github.com/Artymanprince/Tech-Scrolls)
 -   Security and Compilers
 
 ## When I'm not programming?
