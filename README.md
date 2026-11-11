@@ -51,6 +51,7 @@
 - [On the Spirit of this Age, the Nature of Seeking, and the Sacred Root of Knowledge](https://medium.com/@adebiyiitunuayo/on-the-spirit-of-the-age-the-nature-of-seeking-and-the-sacred-root-of-knowledge-25264fe75ba3) - 2026 (Medium)
 - [Glossolalia and the Science of Thought, Speech, and Sonic Influence](https://substack.com/home/post/p-207218399) - 2026 (Substack)
 - [The Assyrians’ Fool](https://substack.com/home/post/p-201073659) - 2026 (Substack)
+- [Programming and Real Estate](https://www.linkedin.com/pulse/programming-real-estate-adebiyi-itunuayo-1f/)
 
  
 ## What am I currently working on?  
